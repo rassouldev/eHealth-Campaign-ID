@@ -1,6 +1,6 @@
 # Proprietary License
 
-Copyright © 2026 Meissa Rassoul SECK
+Copyright © 2026 Meissa Rassoul SECK @OOMUS-DPI
 
 This repository is provided for documentation and demonstration purposes.
 
