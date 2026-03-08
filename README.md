@@ -1,4 +1,3 @@
-# eHealth-Campaign-ID
 # eHealth Campaign ID
 ### Digital Infrastructure for Large-Scale Health Campaigns
 
