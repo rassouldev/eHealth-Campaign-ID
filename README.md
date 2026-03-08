@@ -119,8 +119,8 @@ Field Verification
 
 The platform can integrate with digital health ecosystems such as:
 
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
+- DHIS2 
+- ODK COLLECT
 
 ---
 
