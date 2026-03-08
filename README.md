@@ -153,13 +153,6 @@ The platform is designed to support collaboration with:
 - research institutions
 - global health partners
 
-including:
-
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
-- :contentReference[oaicite:6]{index=6}
-
 ---
 
 # Repository Purpose
